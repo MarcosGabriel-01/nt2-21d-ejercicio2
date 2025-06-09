@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "react": "^19.1.0",
     "vue": "^3.5.16"
   },
   "devDependencies": {
